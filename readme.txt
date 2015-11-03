@@ -1,11 +1,7 @@
-test clone
-<<<<<<< HEAD
+ss:q
+qt clone
 nihsdfgtiao
-=======
 nihao
-first
-<<<<<<< HEAD
->>>>>>> dev1
-=======
-second
->>>>>>> dev2
+
+git test sss
+git 
